@@ -1,0 +1,8 @@
+# Ignore repository-root SQLite DB
+/database/database.sqlite
+
+# Node / vendor etc — add other ignores as needed
+node_modules/
+vendor/
+.DS_Store
+.env
